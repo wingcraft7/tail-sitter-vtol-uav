@@ -1,0 +1,17 @@
+# Aerodynamic Analysis Assumptions and Settings
+
+## Parasite Drag
+- Speed: 100 km/h
+- Altitude: Sea level
+- Reference area: Wing planform (~0.23 m²)
+- Reference chord: MAC (~0.17 m)
+- Excrescence: 7%
+
+## VSPAERO Settings
+- Full geometry, no symmetry
+- Lift axis: Z, Drag axis: X
+- Angle-of-attack sweep: −4° to +14°, step 2°
+- Speed: 25 m/s
+- Elevon deflection: 0°
+- Airfoil interpolation: S-curve
+- Reference chord: MAC

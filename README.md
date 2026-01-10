@@ -14,7 +14,7 @@ The aircraft employs a tailless flying-wing layout with a blended center body an
 
 - Tail-sitter VTOL configuration
 - Flying-wing planform with blended center body
-- Aspect ratio ≈ 9, wingspan ≈ 1.4 m
+- Aspect ratio = 9, wingspan = 1.4 m
 - NACA 4415 root airfoil, NACA 0012 tip airfoil
 - −2° linear washout from root to tip
 - Elevons for combined pitch and roll control

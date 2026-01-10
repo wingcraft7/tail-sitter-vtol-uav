@@ -53,7 +53,9 @@ The aircraft uses twin tractor propulsion, a blended center body, and a tailless
 ## Limitations and Future Work
 
 This work is restricted to conceptual-level inviscid aerodynamic analysis. Future research could focus on flight dynamics and control analysis, propulsion sizing, high-fidelity CFD simulations with viscous effects, and structural finite element analysis.
-Note - An RC transmitter is not included in the BOM, as it will be sourced from existing college equipment for testing.
+
+**Note** - An RC transmitter is not included in the BOM, as it will be sourced from existing college equipment for testing.
+
 ---
 
 ## Author

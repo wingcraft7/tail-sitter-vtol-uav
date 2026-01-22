@@ -1,6 +1,6 @@
 # Tail-Sitter VTOL UAV – Conceptual Design & Aerodynamic Analysis
 
-The conceptual design and initial aerodynamic analysis of a flying-wing tail-sitter vertical takeoff and landing (VTOL) unmanned aerial vehicle (UAV) are presented in this repository. Aerodynamic efficiency, geometric simplicity, and suitability for conceptual-level analysis are the main goals of the project.
+The conceptual design and aerodynamic analysis of a flying-wing tail-sitter vertical takeoff and landing (VTOL) unmanned aerial vehicle (UAV) are presented in this repository. Aerodynamic efficiency and geometric simplicitymare the main goals of the project.
 
 ---
 
@@ -52,9 +52,9 @@ The aircraft uses twin tractor propulsion, a blended center body, and a tailless
 
 ## Limitations and Future Work
 
-This work is restricted to conceptual-level inviscid aerodynamic analysis. Future research could focus on flight dynamics and control analysis, propulsion sizing, high-fidelity CFD simulations with viscous effects, and structural finite element analysis.
+This work is limited to conceptual level inviscid aerodynamic analysis. Future research would focus on flight dynamics and control analysis, propulsion sizing, CFD simulations with viscous effects, and structural finite element analysis.
 
-**Note** - An RC transmitter is not included in the BOM, as it will be sourced from existing college equipment for testing.
+**Note** - An RC transmitter is not included in the BOM, as it will be sourced from my college equipment for testing.
 
 ---
 
